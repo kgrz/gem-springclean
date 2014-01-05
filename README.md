@@ -19,6 +19,7 @@ Or install it yourself as:
 ## Usage
 
 After installation, run the command:
+
     $ gem help springclean
 
 To use the command, you can pass in two options: `--exclude` and `--include`
